@@ -1,4 +1,4 @@
-Draw the tree diagram, calculate efficiency, redundancy and variance of given samples {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} using Huffman coding method.
+Draw the tree diagram, calculate efficiency, redundancy and variance of given samples {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} using Huffman and Shannon-fanocoding method.
 Aim
 Tools Required
 Program

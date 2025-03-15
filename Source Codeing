@@ -1,4 +1,4 @@
-Write a simple python program to draw the tree diagram and calculate efficiency, Redundancy and Variance of an given samples probability using Huffman and Shannon-Fano coding method. 
+Draw the tree diagram, calculate efficiency, redundancy and variance of given samples {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} using Huffman coding method.
 Aim
 Tools Required
 Program
